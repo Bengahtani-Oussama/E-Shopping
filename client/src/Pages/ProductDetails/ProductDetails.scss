@@ -1,0 +1,24 @@
+
+.original{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+    img{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    
+}
+.thumb{
+    width: 100%;
+    height: 80px;
+
+    img{
+        width: 100%;
+        height: 60px;
+    }
+    
+}
